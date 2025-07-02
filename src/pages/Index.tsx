@@ -90,7 +90,8 @@ export default function Index() {
   return (
     <div className="min-h-screen bg-background flex flex-col">
       <Header />
-      
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5252090930676115"
+     crossorigin="anonymous"></script>
       {/* Hero Section */}
       <section className="relative bg-gradient-to-r from-primary/20 via-primary/10 to-background py-20">
         <div className="container mx-auto px-4">
@@ -132,6 +133,9 @@ export default function Index() {
                 </Button>
               )}
             </div>
+
+            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5252090930676115"
+     crossorigin="anonymous"></script>
             
             {/* Real-time search results indicator */}
             {searchTerm && (
